@@ -5,6 +5,7 @@ Passionate coder driven by curiosity and innovation, always exploring new challe
 
 ## 🌟 About Me
 🌱 I’m currently learning DSA and Web Development
+
 💡 Open to new opportunities and collaborations in tech and open-source projects. 
 
 
