@@ -1,39 +1,38 @@
-# Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Dhruvi Patel
+### Hi there, I'm <a href="#" target="_blank">Dhruvi Patel</a> 👋
 
 
-Passionate coder driven by curiosity and innovation, always exploring new challenges and pushing boundaries through creative problem-solving.
-
-## 🌟 About Me
-🌱 I’m currently learning DSA and Web Development
-
-💡 Open to new opportunities and collaborations in tech and open-source projects. 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dhruvi-patel-580b9b252/)
+[![Gmail](https://img.shields.io/badge/%20-@Email-black?color=14171A&labelColor=D44638&logo=gmail&logoColor=fff)](mailto:dhruvipatrl1611@gmail.com)
 
 
+📈 **My GitHub Stats:**
 
-## 🛠️ Technologies & Tools
-Here are some of the technologies and tools I’ve worked with:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvi013&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvi013" /> </p>
 
-- **Languages:** C++, Java, Python, JavaScript, C#
-- **Frameworks:** .NET MVC, React, Node.js, Express
-- **Databases:** MongoDB, MySQL
-- **Tools:** Git, Jenkins, Packet Tracer
-- **Cloud:** AWS, Heroku, Netlify
----
+[![trophy](https://github-profile-trophy.vercel.app/?username=dhruvi013&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
+<p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhruvi013&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvi013&show_icons=true&hide_border=false&layout=compact&langs_count=8"/>
+</p>
 
-## 📊 GitHub Stats
-![Nidhi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhruvi013&show_icons=true&theme=dracula)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dhruvi013&theme=transparent&border_radius=5&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&type=png&card_width=720)](https://git.io/streak-stats)
 
-## 🌐 Connect with Me
-I'm an introvert at heart, but I love meeting and learning from people passionate about tech and innovation. Feel free to reach out!
+**My WakaTime Stats**
 
-<a href="linkedin.com/in/dhruvi-patel-580b9b252" target="_blank">
-   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-</a>
-<a href="mailto:dhruvipatrl1611@gmail.com" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/50/000000/email.png" width="28px" alt="Email">
-</a>
-<a href="https://github.com/dhruvi013" target="_blank">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-</a>
----
+[![wakatime](https://wakatime.com/badge/user/3eb5fe76-ae8a-47fc-b11c-d088170f9ab0.svg)](https://wakatime.com/@3eb5fe76-ae8a-47fc-b11c-d088170f9ab0)
+
+<!--
+**dhruvi013/dhruvi013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
